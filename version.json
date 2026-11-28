@@ -2,6 +2,6 @@
   "latestVersion": 2,
   "versionName": "1.1.0",
   "apkUrl": "https://github.com/xApps-lk/musicx-updates/releases/download/v1.1.0/MusicX_Release.apk",
-  "releaseNotes": "MusicX v1.1.0 - Ultra-fast playback startup, Dislike / Don't Recommend feature, strict subtitle matching, and OriginOS lyrics sync fixes",
+  "releaseNotes": "MusicX v1.1.0 - Ultra-fast instant playback & startup pre-loading, HTTP 403 playback error auto-recovery, In-App Auto-Update pipeline, strict subtitle matching, and Dislike button",
   "forceUpdate": false
 }
