@@ -1,7 +1,7 @@
 {
-  "latestVersion": 5,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/xApps-lk/musicx-updates/releases/download/v1.4.0/MusicX_Release.apk",
-  "releaseNotes": "Accurate Lyrics Matching & Sinhala Unicode Support\nPersistent Lyrics Cache (No more switching lyrics on reopen)\nApple-Style White Font Karaoke Highlight\n100ms Tight Audio Beat Sync & VTT Subtitle Fix\nRedesigned Liquid Glass Software Update Experience",
-  "forceUpdate": false
+    "latestVersion":  6,
+    "versionName":  "1.5.0",
+    "apkUrl":  "https://github.com/xApps-lk/musicx-updates/releases/download/v1.5.0/MusicX_Release.apk",
+    "releaseNotes":  "Optimized Light Mode across Player, Lyrics \u0026 Artist Profiles\nPure Liquid Glass Settings with Dark/Light Mode Toggle\nSimplified Storage Cleaner (Offline Downloads \u0026 Clear All Cache)\nBold Frosted Active Highlights for Lyrics, Equalizer \u0026 Controls",
+    "forceUpdate":  false
 }
